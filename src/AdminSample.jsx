@@ -14,7 +14,7 @@ import { useState } from "react";
             <thead>
                 <tr>
                     <th className="p-2 border">ID</th>
-                    <th className="p-2 border">Sample Type</th>
+                    <th className="p-2 border">Sample Types</th>
                     <th className="p-2 border">Name</th>
                     <th className="p-2 border">Email</th>
                     <th className="p-2 border">Company</th>
